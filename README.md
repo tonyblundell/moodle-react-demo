@@ -2,7 +2,7 @@
 A chat app built with [React](https://facebook.github.io/react/) and packaged as a Moodle local plugin.
 
 ## Screenshot
-![Screenshot](https://github.com/tonyblundell/moodle-react-demo/blob/master/images/screenshot.jpg)
+![Screenshot](https://github.com/tonyblundell/moodle-react-demo/blob/master/screenshot.jpg)
 
 ## Overview
 The app is packaged as a Moodle local plugin in local/reactchat.
